@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently Studying Bachelor's Degree in Software Engineering
-- 🌱 I’m currently learning C/C++ Programming Language
+- 🌱 At the moment learning C/C++ Programming Language
 - 👯 I’m looking to collaborate on great and challenging projects that help me grow as a programmer
 <!--
 - 🤔 I’m looking for help with ...
