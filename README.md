@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+-  ⚡ Degree in Physics 
 - 🔭 I’m currently Studying Bachelor's Degree in Software Engineering
 - 🌱 At the moment learning C/C++ Programming Language
 - 👯 I’m looking to collaborate on great and challenging projects that help me grow as a programmer 
