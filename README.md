@@ -28,7 +28,7 @@ and help to improve life in society<br><br>
 
 <figure class="half" style="display:flex">
     <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en">
-    <img style="width:600px" src="http://alexmarshall12.github.io/assets/img/one-piece-1693146_colored2.png">
+    <img style="width:600px" src="https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact">
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
