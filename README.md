@@ -26,7 +26,7 @@ and help to improve life in society
 <h3 align="center">Studying in the early years in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" /> </p>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atosneves" target="blank"><img align="center" src="linkedin.svg" alt="atosneves" height="30" width="40" /></a>
@@ -42,5 +42,3 @@ and help to improve life in society
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en" alt="atosneves" /></p>
 <br><br>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="atos-neves"><a class="LI-simple-link" href='https://br.linkedin.com/in/atos-neves?trk=profile-badge'>Atos Neves</a></div>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="atos-neves"><a class="LI-simple-link" href='https://br.linkedin.com/in/atos-neves?trk=profile-badge'>Atos Neves</a></div>
