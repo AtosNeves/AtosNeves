@@ -42,4 +42,4 @@ and help to improve life in society
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en" alt="atosneves" /></p>
 <br><br>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="atos-neves"><a class="LI-simple-link" href='https://br.linkedin.com/in/atos-neves?trk=profile-badge'>Atos Neves</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="atos-neves"><a class="LI-simple-link" href='https://br.linkedin.com/in/atos-neves?trk=profile-badge'>Atos Neves</a></div>
