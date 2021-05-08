@@ -17,4 +17,5 @@ and help to improve life in society
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Atos Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&theme=radical)
+![Atos Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&theme=radical) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atosneves)](https://github.com/anuraghazra/github-readme-stats)
+
