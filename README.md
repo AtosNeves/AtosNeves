@@ -1,8 +1,5 @@
 
 
-![Atos Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&theme=nord)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&layout=compact)](https://github.com/atosneves/github-readme-stats)
-
 <br><br><br><br><br>
 
 <h1 align="center">Hi 👋, I'm Atos Neves</h1>
