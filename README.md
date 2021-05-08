@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Atos Neves</h1>
 <h3 align="center">Studying in the early years in Software Engineering</h3>
 ⚡ Degree in Physics 
-- 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<\n>
+- 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<br>
 - 🌱 At the moment learning C/C++ Programming Language
 - 👯 I’m looking to collaborate on great and challenging projects that help me grow as a programmer 
 and help to improve life in society
