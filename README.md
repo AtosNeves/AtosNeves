@@ -5,11 +5,7 @@
 
 Here are some ideas to get you started:
 -->
--  ⚡ Degree in Physics 
-- 🔭 I’m currently Studying Bachelor's Degree in Software Engineering
-- 🌱 At the moment learning C/C++ Programming Language
-- 👯 I’m looking to collaborate on great and challenging projects that help me grow as a programmer 
-and help to improve life in society
+-  
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,7 +20,11 @@ and help to improve life in society
 
 <h1 align="center">Hi 👋, I'm Atos Neves</h1>
 <h3 align="center">Studying in the early years in Software Engineering</h3>
-
+⚡ Degree in Physics 
+- 🔭 I’m currently Studying Bachelor's Degree in Software Engineering
+- 🌱 At the moment learning C/C++ Programming Language
+- 👯 I’m looking to collaborate on great and challenging projects that help me grow as a programmer 
+and help to improve life in society
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" /> </p>
 
 <h3 align="left">Connect with me:</h3>
