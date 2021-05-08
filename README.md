@@ -24,3 +24,15 @@ and help to improve life in society<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en" alt="atosneves" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact" alt="atosneves"/></p>
 
+
+
+<figure class="half" style="display:flex">
+    <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en">
+    <img style="width:600px" src="http://alexmarshall12.github.io/assets/img/one-piece-1693146_colored2.png">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
+
+
+
+
