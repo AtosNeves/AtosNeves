@@ -1,7 +1,7 @@
 
 
 <br>
-<h1 align="center">Hi <img src="tenor.gif" alt="python" width="40" height="40"/>, I'm Atos Neves</h1>
+<h1 align="center">Hi <img src="tenor.gif" alt="python" width="35" height="35"/>, I'm Atos Neves</h1>
 <h3 align="center">Studying in the early years in Software Engineering</h3>
 - ⚡ Degree in Physics <br>
 - 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<br>
