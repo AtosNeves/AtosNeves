@@ -6,8 +6,7 @@
 - ⚡ Degree in Physics  <br>
 - 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<br>
 - 🌱 At the moment learning C/C++ Programming Language<br>
-- 👯 I’m looking to collaborate on great and challenging projects that help me grow as a programmer<br>
-and help to improve life in society<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" /> </p>
 
 <h3 align="left">Connect with me:</h3>
