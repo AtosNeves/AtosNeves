@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/atos-neves/" target=""><img align="center" src="linkedin.svg" alt="atosneves" height="30" width="40" /></a>
-<a href="https://instagram.com/mratosneves" target="blank"><img align="center" src="instagram.svg" alt="mratosneves" height="30" width="40" /></a>
+
 <a href="https://discord.gg/AtosNeves#5322" target="blank"><img align="center" src="discord.svg" alt="AtosNeves#5322" height="30" width="40" /></a>
 </p>
 
