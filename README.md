@@ -1,6 +1,11 @@
 
 
 <br>
+uses: Platane/snk@master
+  with:
+    AtosNeves: platane
+    gif_out_path: dist/github-contribution-grid-snake.gif
+    svg_out_path: dist/github-contribution-grid-snake.svg
 <h1 align="center"><img src="tenor.gif" alt="" width="35" height="35"/> I'm Atos Neves</h1>
 <h3 align="center">Studying in the early years in Software Engineering  <img src="codding.gif" alt="" width="20" height="20"/></h3>
 - ⚡ Degree in Physics  <br>
