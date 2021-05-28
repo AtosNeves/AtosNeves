@@ -1,6 +1,16 @@
 
 
 <br>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: atosneves
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
 <h1 align="center"><img src="tenor.gif" alt="" width="35" height="35"/> I'm Atos Neves</h1>
 <h3 align="center">Studying in the early years in Software Engineering  <img src="codding.gif" alt="" width="20" height="20"/></h3>
