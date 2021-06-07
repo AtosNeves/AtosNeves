@@ -21,7 +21,7 @@
 
 
 <figure class="half" style="display:flex">
-    <img style="width:400px hidth:100px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en">
+    <img style="width:400px height:100px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en">
     <img style="width:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact">
 </figure> 
 
