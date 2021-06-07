@@ -9,7 +9,7 @@
 - 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<br>
 - 🌱 At the moment learning C/C++ Programming Language<br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="30" height="30"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="20" height="30"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
