@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/atos-neves/" target=""><img align="center" src="linkedin.svg" alt="atosneves" height="30" width="40" /></a>
-<a href="https://discord.gg/AtosNeves#5322" target="blank"><img align="center" src="discord.svg" alt="AtosNeves#5322" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atos-neves/" target=""><img align="center" src="linkedin.svg" alt="atosneves" height="40" width="50" /></a>
+<a href="https://discord.gg/AtosNeves#5322" target="blank"><img align="center" src="discord.svg" alt="AtosNeves#5322" height="40" width="50" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &nbsp;&nbsp; </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp; </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> &nbsp;&nbsp;</a> <a href="https://www.postgresql.org" target="_blank"> <img src="postgresql.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;</a>  <a href="https://inkscape.org/" target="_blank"> <img src="inkscape.svg" alt="Inkscape" width="50" height="50"/> </a></p>
