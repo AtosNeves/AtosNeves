@@ -20,7 +20,7 @@
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &nbsp;&nbsp; </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp; </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> &nbsp;&nbsp;</a> <a href="https://www.postgresql.org" target="_blank"> <img src="postgresql.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;</a>  <a href="https://inkscape.org/" target="_blank"> <img src="inkscape.svg" alt="Inkscape" width="50" height="50"/> </a></p>
 <hr>
 
-<figure class="half" style="display:flex">
+<figure class="half" style="display:">
     <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en"><img style="width:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact">
 </figure> 
 <hr>
