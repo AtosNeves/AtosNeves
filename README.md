@@ -21,7 +21,8 @@
 <hr>
 
 <figure class="half" style="display:">
-    <img style="width:300px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en"><img style="width:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact">
+    <img style="width:300px" src="https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en">
+    <img style="width:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact">
 </figure> 
 <hr>
 
