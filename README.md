@@ -23,6 +23,6 @@
 
 <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en)|![](https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en)  ![](https://github-readme-stats.vercel.app/api/top-langs?username=atosneves&show_icons=true&locale=en&layout=compact)
 
 
