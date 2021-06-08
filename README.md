@@ -25,6 +25,6 @@
 </figure> 
 <hr>
 
-
+![]("https://github-readme-stats.vercel.app/api?username=atosneves&show_icons=true&locale=en)
 
 
