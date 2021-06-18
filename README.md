@@ -20,8 +20,8 @@
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"><img src="c.svg" alt="c" width="50" height="50"/> &nbsp;&nbsp; </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="c++.svg" alt="cplusplus" width="50" height="50"/> &nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> </a><a href="https://www.python.org" target="_blank"> <img src="python.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp; </a> <a href="https://www.linux.org/" target="_blank"> <img src="linux.svg" alt="linux" width="50" height="50"/> &nbsp;&nbsp;</a> <a href="https://www.postgresql.org" target="_blank"> <img src="postgresql.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;</a>  <a href="https://inkscape.org/" target="_blank"> <img src="inkscape.svg" alt="Inkscape" width="50" height="50"/> </a></p>
 <hr>
 <h3 align="left">In the future</h3>
-
-
+<p align="left"> 
+ <a href="https://www.java.com" target="_blank"> <img src="java.svg" alt="Inkscape" width="50" height="50"/> </a></p>
 <hr>
 <br>
 
