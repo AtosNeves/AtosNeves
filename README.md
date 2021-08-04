@@ -3,7 +3,8 @@
 <br>
 
 
-<h1 align="center"><img src="tenor.gif" alt="" width="35" height="35"/> I'm Atos Neves</h1>
+<h1 align="center"><img src="tenor.gif" alt="" width="35" height="35"/> Have you debugged today?
+</h1>
 <h3 align="center">Studying in the early years in Software Engineering  <img src="codding.gif" alt="" width="20" height="20"/></h3>
 - ⚡ Degree in Physics  <br>
 - 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<br>
