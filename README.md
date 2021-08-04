@@ -7,7 +7,6 @@
 </h1>
 <h3 align="center">Studying in the early years in Software Engineering  <img src="codding.gif" alt="" width="20" height="20"/></h3>
 - ⚡ Degree in Physics  <br>
-- 🔭 I’m currently Studying Bachelor's Degree in Software Engineering<br>
 - 🌱 At the moment learning C/Java Programming Language<br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="150" height="28"/> </p>
