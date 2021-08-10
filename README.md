@@ -1,13 +1,11 @@
 
 
-<br>
 
-
-<h1 align="center"><img src="tenor.gif" alt="" width="35" height="35"/> Have you debugged today?
-</h1>
+<h1 align="center"><img src="tenor.gif" alt="" width="35" height="35"/> Have you debugged today?</h1>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="150" height="28"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="150" height="28"/> 
 <hr>
+![](http://github-readme-streak-stats.herokuapp.com?user=atosneves&theme=dark&hide_border=true&background=000000)
 <h3 align="left">Connect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/atos-neves/" target=""><img  src="linkedin.svg" alt="atosneves" height="" width="50" /></a>&nbsp;&nbsp;
