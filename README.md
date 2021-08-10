@@ -9,7 +9,7 @@
     <a href="https://github.com/AtosNeves">
         <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p><hr>
 <p align="left">
 <h3 align="left">Connect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
 <p align="left">
@@ -22,5 +22,5 @@
 
 
 
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atosneves&theme=github_dark)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atosneves&theme=github_dark)
 
