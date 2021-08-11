@@ -7,23 +7,10 @@
 <hr>
 <p align="left">
     <a href="https://github.com/AtosNeves">
-        <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/><br><br>
+        <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Streak" alt="Atos Neves's streak" src="com.gif"/><br><br>
         <img title="Streak" alt="Atos Neves's streak" src="https://activity-graph.herokuapp.com/graph?username=atosneves&theme=nord"/>
     
-
-    
-    
-
-</p>
-    <p align="left">
-    <a href="https://github.com/AtosNeves">
-        
-    
-
-    
-    
-
-</p>
 
 <hr>
 <p align="left">
