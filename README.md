@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://github.com/AtosNeves">
         <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/><br>
-        <img title="Streak" alt="Atos Neves's streak" src="https://activity-graph.herokuapp.com/graph?username=atosneves&theme=nord"/>
+        <img title="Streak" alt="Atos Neves's streak" src="https://activity-graph.herokuapp.com/graph?username=atosneves&theme=nord&color=gray"/>
     
 
     
