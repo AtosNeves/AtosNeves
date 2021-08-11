@@ -5,11 +5,27 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="150" height="28"/> </p>
 <hr>
-<p align="left">
+<p align="center">
     <a href="https://github.com/AtosNeves">
-        <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p><hr>
+        <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/><br>
+        <img title="Streak" alt="Atos Neves's streak" src="https://activity-graph.herokuapp.com/graph?username=atosneves"/>
+    
+
+    
+    
+
+</p>
+    <p align="left">
+    <a href="https://github.com/AtosNeves">
+        
+    
+
+    
+    
+
+</p>
+
+<hr>
 <p align="left">
 <h3 align="left">Connect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
 <p align="left">
