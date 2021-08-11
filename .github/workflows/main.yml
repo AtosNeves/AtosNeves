@@ -1,19 +1,19 @@
-name: generate animation
+name: Waka Readme
 
 on:
   schedule:
-      # every 1 hours
-    - cron: "0 */6 * * *"
-
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
-  generate:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: anmol098/waka-readme-stats@master
         with:
-          github_user_name: atosneves
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN   }}
+          SHOW_LINES_OF_CODE : "True"
+          SHOW_PROFILE_VIEWS : "False"
+          SHOW_LOC_CHART : "False"
+          SHOW_TITLE : true
