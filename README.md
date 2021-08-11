@@ -5,11 +5,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="150" height="28"/> </p>
 <hr>
-<p align="left">
+<p align="center">
     <a href="https://github.com/AtosNeves">
         <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
-        <img title="Streak" alt="Atos Neves's streak" src="com.gif"/><br><br>
-        <img title="Streak" alt="Atos Neves's streak" src="https://activity-graph.herokuapp.com/graph?username=atosneves&theme=nord"/>
+        <img title="Streak" alt="Atos Neves's streak" src="com.gif"width="250" height="195"/><br><br>
+        <img src="https://activity-graph.herokuapp.com/graph?username=atosneves&theme=nord"/>
     
 
 <hr>
