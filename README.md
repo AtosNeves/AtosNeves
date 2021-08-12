@@ -24,7 +24,13 @@
 <br>
    
 
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github_dark">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&theme=white">
+    
+    
+    </p>
+    
 
-
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github_dark) ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&theme="dark")
+ 
 
