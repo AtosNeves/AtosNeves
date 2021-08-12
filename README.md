@@ -9,7 +9,7 @@
     <a href="https://github.com/AtosNeves">
         <img title="Streak" alt="Atos Neves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atosneves&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
         <img title="Streak" alt="Atos Neves's streak" src="com.gif"width="250" height="195"/><br><br>
-        <img src="https://activity-graph.herokuapp.com/graph?username=atosneves&theme=nord"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atosneves&theme=github_dark"/>
     
 
 <hr>
@@ -25,7 +25,7 @@
    
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&theme=white">
 </p>
     
