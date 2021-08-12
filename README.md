@@ -14,7 +14,7 @@
 
 <hr>
 <p align="center">
-<h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspConnect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
+<h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspConnect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/atos-neves/" target=""><img  src="linkedin.svg" alt="atosneves" height="" width="50" /></a>&nbsp;&nbsp;
 <a href="https://discord.gg/AtosNeves#5322" target="blank"><img  src="discord.svg" alt="AtosNeves#5322" height="50" width="50" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
