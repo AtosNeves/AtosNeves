@@ -13,9 +13,9 @@
     
 
 <hr>
-<p align="left">
-<h3 align="left">Connect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
-<p align="left">
+<p align="center">
+<h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspConnect with me&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLanguages and Tools</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/atos-neves/" target=""><img  src="linkedin.svg" alt="atosneves" height="" width="50" /></a>&nbsp;&nbsp;
 <a href="https://discord.gg/AtosNeves#5322" target="blank"><img  src="discord.svg" alt="AtosNeves#5322" height="50" width="50" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank"><img src="c.svg" alt="c" width="50" height="50"/>  </a>  &nbsp;&nbsp;<a href="https://www.java.com" target="_blank"> <img src="java.svg" alt="java" width="50" height="50"/></a> &nbsp;&nbsp;<a href="https://www.python.org" target="_blank"> <img src="python.svg" alt="python" width="50" height="50"/> </a> &nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> <img src="linux.svg" alt="linux" width="50" height="50"/> &nbsp;&nbsp;</a> <a href="https://www.postgresql.org" target="_blank"> <img src="postgresql.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;</a>  <a href="https://inkscape.org/" target="_blank"> <img src="inkscape.svg" alt="Inkscape" width="50" height="50"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="git.svg" alt="Git" width="120" height="50"/> </a></p>
