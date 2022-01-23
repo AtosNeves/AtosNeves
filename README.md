@@ -29,6 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&theme=white">
 </p>
 <hr>    
-<h3 aligh="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBadges </h3>
+<h3 aligh="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBadges </h3><br><br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0178FDB66FA5F10FB4DDA173CD5E677EEE161A925E8332B4E307F40481B7B4C" alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="Oracle1.jpg"height="150" width="150" >
  
 
