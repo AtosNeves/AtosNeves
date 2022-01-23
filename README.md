@@ -28,7 +28,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atosneves&theme=github">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&theme=white">
 </p>
-    
+<hr>    
 
  
 
