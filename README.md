@@ -29,6 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosneves&theme=white">
 </p>
 <hr>    
-<h3 aligh="left"> Badges </h3>
+<h3 aligh="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBadges </h3>
  
 
