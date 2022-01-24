@@ -31,5 +31,6 @@
 <hr>    
 <h3 aligh="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBadges </h3>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0178FDB66FA5F10FB4DDA173CD5E677EEE161A925E8332B4E307F40481B7B4C"><img alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="50_Oracle_Cloud_Infrastructure.jpg"height="100" width="100" /> </a>
+<img alt="Java Explorer" src="oracle2.png"height="100" width="100" />
  
 
