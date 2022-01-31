@@ -1,8 +1,7 @@
 
 
 
-<h1 align="center"><img src="tenor3.gif" alt="" width="35" height="35"/> Discipline and Willpower <img src="tenor3.gif" alt="" width="35" height="35"/></h1>
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosneves&label=Profile%20views&color=0e75b6&style=flat" alt="atosneves" width="150" height="28"/> </p>
 <hr>
 <p align="center">
