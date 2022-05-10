@@ -30,6 +30,6 @@
 <hr>    
 <h3 aligh="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBadges </h3>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0178FDB66FA5F10FB4DDA173CD5E677EEE161A925E8332B4E307F40481B7B4C"> <img alt="Java Explorer" src="oracle2.png"height="100" width="100" /><img alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="50_Oracle_Cloud_Infrastructure.jpg"height="100" width="100" /></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0178FDB66FA5F10FB4DDA173CD5E677EEE161A925E8332B4E307F40481B7B4C"> <img alt="Java Explorer" src="oracle2.png"height="100" width="100" /><img alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="50_Oracle_Cloud_Infrastructure.jpg"height="100" width="100" /></a><a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"> <img alt="Java Explorer" src="oracle2.png"height="100" width="100" />
  
 
