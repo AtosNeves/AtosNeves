@@ -33,7 +33,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0178FDB66FA5F10FB4DDA173CD5E677EEE161A925E8332B4E307F40481B7B4C"> <img alt="Java Explorer" src="oracle2.png"height="100" width="100" /><img alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="50_Oracle_Cloud_Infrastructure.jpg"height="100" width="100" /></a><a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"> <img alt="ONE" src="ONE1.png"height="100" width="100" /><img alt="Java Explorer" src="oraclejs.png" height="100" width="100" />  <img alt="ONE" src="ONE2.png"height="100" width="100" />
  
 <h1>Projetos</h1>
-https://www.alura.com.br/api/dashboard/36122a72daf1714adf076fdaa897ae2334a1b6c45bfbba5d9b9c7daf2dfec83d
+
 
 <a href="https://atosneves.github.io/Encryptador/" target=""><img  src="encriptador.png" alt="atosneves" height="" width="250" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://atosneves.github.io/Challenge-2/" target=""><img  src="forca.png" alt="atosneves" height="" width="250" /></a>&nbsp;&nbsp;&nbsp;
